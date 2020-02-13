@@ -20,6 +20,7 @@ Code 2) The code Developed by the mez is the code what we actually want but the 
 Link to Kitty dataset: "http://www.cvlibs.net/datasets/kitti/eval_odometry.php"
 
 Our Solution: To overcome the above problem and use our own dataset to build odometry we merge both the above codes together and created our own code.  This code is doing exact what we want but there is some bug in the code because the ground truth and the actual position trajectory is going in opposite direction. And we are unable to find the bug where we did wrong. 
+
 Our code: My-Odometry Mentioned above
 <p align="center">
   <img src="https://github.com/Shivani1796/Odometry-/blob/master/AviSingh/1.png">
