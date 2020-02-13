@@ -9,8 +9,7 @@ Reference Codes :
 
 Links to clone the above codes : 
 
-1)https://github.com/mez/monocular-visual-odometry.git
-
+1)https://github.com/mez/monocular-visual-odometry.git 
 2)https://github.com/avisingh599/mono-vo.git
 
 Problem with te Reference Codes:
