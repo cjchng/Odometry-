@@ -35,12 +35,13 @@ Steps to Compile and run:
 4) mkdir build & cd build
 5) cmake ..
 6) make 
------------------------------------------------------------------------------------------------------------------------
-cj@02142020 
 7) Run Execuatable file
-
+-----------------------------------------------------------------------------------------------------------------------
 // Remember: Change img_path and pose_path to correct image sequences and pose file paths. 
 	  Ensure focal length and principal point information is correct 
           
 The changes what we made in our program is mentioned in the code with the help of " // ".
+----------------------------------------------------------------------------------------------------------------------
+cj@02142020 
+
 
