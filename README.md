@@ -35,6 +35,8 @@ Steps to Compile and run:
 4) mkdir build & cd build
 5) cmake ..
 6) make 
+-----------------------------------------------------------------------------------------------------------------------
+cj@02142020 
 7) Run Execuatable file
 
 // Remember: Change img_path and pose_path to correct image sequences and pose file paths. 
