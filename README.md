@@ -20,8 +20,8 @@ Code 1) The code by the avi singh is the basic code to develop odometry  which o
 
 Code 2) The code by the mez is the code what we actually want but the problem with the code is that "it is limited to some sequences which are developed by kittydataset" and not work for our own dataset.
 
-Link to Kitty dataset: "http://www.cvlibs.net/datasets/kitti/eval_odometry.php"
-Link to My Dataset: "https://bit.ly/2OAqTuz"
+- Link to Kitty dataset: "http://www.cvlibs.net/datasets/kitti/eval_odometry.php"
+- Link to My Dataset: "https://bit.ly/2OAqTuz"
 
 **Our Solution:**
 
